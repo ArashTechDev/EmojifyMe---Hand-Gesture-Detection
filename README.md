@@ -37,9 +37,16 @@ By converting gestures to emojis, this program offers a seamless communication b
 ### 4. Making Education Fun and Engaging:
 The program serves as an educational tool, enhancing learning experiences for children and students. By associating gestures with emojis, it encourages playful interaction while teaching sign language, gestures, or emotional expression. This innovative approach can boost engagement, retention, and enjoyment in educational settings.
 
-## Objectives
-
 ## Technologies Used
+
+### Python: 
+**Python** is the primary programming language used to build EmojifyMe. Its simplicity, ease of integration with libraries, and rich ecosystem make it perfect for developing computer vision and machine learning applications. The **math** library in Python is used to calculate the angles between the fingers, helping determine whether a finger is extended or curled. This mathematical analysis is key for accurate gesture recognition, such as distinguishing between an open hanD, a fist or detecting if a finger is extended.
+
+### OpenCV:
+**OpenCV** is used for image processing and real-time video frame capture. It helps track hand gestures by detecting key points on the hand and analyzing the movement in the video stream. OpenCV allows for effective manipulation of the image data to extract relevant features needed for gesture recognition.
+
+### Google MediaPipe:
+**MediaPipe** is used for real-time hand tracking and gesture recognition. It provides **pre-trained models** that enable Emojify Me to track key points of the hand in 3D space. These points are then used to determine hand gestures such as pointing, fist, or open hand, which are then converted into corresponding emojis.
 
 ## Demonstration
 
