@@ -25,6 +25,18 @@
 
 ## Purpose
 
+### 1. Creating a Fun, Interactive, Real-Time Communication Tool:
+**EmojifyMe** transforms hand gestures into emojis in real time, making interactions lively, engaging, and fun. This feature enhances communication, especially in scenarios like video calls, where gestures can be instantly converted into emojis to add a new layer of expressiveness. It bridges traditional communication with a modern, visual approach, catering to a wide audience looking for creative and engaging ways to interact.
+
+### 2. Enhancing Accessibility:
+By converting gestures to emojis, this program offers a seamless communication bridge for individuals who rely on American Sign Language (ASL) or other gesture-based systems. It fosters inclusivity by enabling effective communication between ASL users and non-ASL users, breaking down communication barriers and making conversations more accessible.
+
+### 3. Empowering Visually Impaired Users with Assistive Technology:
+**EmojifyMe** can integrate with screen readers and other assistive tools to make gesture-based communication more accessible for visually impaired individuals. By translating gestures into emojis accompanied by descriptive audio cues, the program creates an intuitive and interactive way to communicate that complements existing assistive technologies. This feature is a step towards more inclusive and adaptive solutions for people with visual impairments.
+
+### 4. Making Education Fun and Engaging:
+The program serves as an educational tool, enhancing learning experiences for children and students. By associating gestures with emojis, it encourages playful interaction while teaching sign language, gestures, or emotional expression. This innovative approach can boost engagement, retention, and enjoyment in educational settings.
+
 ## Objectives
 
 ## Technologies Used
