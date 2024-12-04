@@ -78,7 +78,36 @@ The program serves as an educational tool, enhancing learning experiences for ch
 
 1. **Clone the repository**  
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/ArashTechDev/EmojifyMe---Hand-Gesture-Detection.git
+   cd repository_name
+2. **Open the notebook**
+   Launch Jupyter Notebook or Jupyter Lab and open the setup.ipynb file:
+   ```bash
+   jupyter notebook setup.ipynb
+3. **Install dependencies**
+   Run the setup cells in the notebook to install required libraries:
+   <ul>
+      <li> OpenCV </li>
+      <li> MediaPipe </li>
+   </ul>
+   Alternatively, install them manually:
+   ```bash
+   pip install opencv-python mediapipe
 
+### Usage
 
+1. **Run the notebook**
+   Execute all cells in the setup.ipynb file. The application will use your webcam to detect hand gestures.
+2. **Perform gestures**
+   Place your hand in front of the webcam and try these gestures:
+   <ul>
+      <li> Thumbs Up: Raise your thumb while keeping other fingers down. </li>
+      <li> Peace: Raise your index and middle fingers while folding others. </li>
+      <li> One: Extend only your index finger. </li>
+      <li> High Five: Extend all fingers. </li>
+      <li> Fist: Close your hand into a fist. </li>
+   </ul>
+3. Quit the application
+   <ul>
+      <li> Stop the execution of the notebook cell or interrupt the kernel to exit the application. </li>
+   </ul>
