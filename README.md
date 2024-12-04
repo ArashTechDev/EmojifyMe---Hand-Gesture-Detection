@@ -18,6 +18,7 @@
 **Section:** NZA <br>
 **Department:** School of Software Design and Data Science <br>
 **Institute:** Seneca Polytechnic (Toronto, Canada) <br>
+**Contact:** savita.seharawat@senecapolytechnic.ca <br>
 
 ## Overview
 
