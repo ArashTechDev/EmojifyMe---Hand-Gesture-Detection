@@ -58,7 +58,14 @@ The program serves as an educational tool, enhancing learning experiences for ch
 
 <img width="800" alt="3" src="https://github.com/user-attachments/assets/4b80290d-8e8d-4205-82b2-15e02d33de76">
 
+### Works for both hands
+
+<img width="800" alt="Screenshot 2024-12-03 at 10 11 47 PM" src="https://github.com/user-attachments/assets/ea37b2dd-6535-4387-aeed-bbb5740a489a">
+<img width="800" alt="Screenshot 2024-12-03 at 10 10 59 PM" src="https://github.com/user-attachments/assets/5e065c5e-a039-4ffa-8c7d-4a893695b828">
+
 
 
 ## Setup and Usage
+
+
 
