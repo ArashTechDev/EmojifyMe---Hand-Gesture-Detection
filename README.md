@@ -49,6 +49,7 @@ The program serves as an educational tool, enhancing learning experiences for ch
 **MediaPipe** is used for real-time hand tracking and gesture recognition. It provides **pre-trained models** that enable Emojify Me to track key points of the hand in 3D space. These points are then used to determine hand gestures such as pointing, fist, or open hand, which are then converted into corresponding emojis.
 
 ## Demonstration
+**The images below showcase the programs ability to detect hand gestures accurately.**
 <img width="800" alt="1" src="https://github.com/user-attachments/assets/70c6937c-1912-46e4-b4e8-604eacf9a769">
 <br/>
 <br/>
@@ -58,7 +59,7 @@ The program serves as an educational tool, enhancing learning experiences for ch
 
 <img width="800" alt="3" src="https://github.com/user-attachments/assets/4b80290d-8e8d-4205-82b2-15e02d33de76">
 
-### Works for both hands
+**The images below demonstrate that the model correctly predicts gestures for both hands.**
 
 <img width="800" alt="Screenshot 2024-12-03 at 10 11 47 PM" src="https://github.com/user-attachments/assets/ea37b2dd-6535-4387-aeed-bbb5740a489a">
 <img width="800" alt="Screenshot 2024-12-03 at 10 10 59 PM" src="https://github.com/user-attachments/assets/5e065c5e-a039-4ffa-8c7d-4a893695b828">
