@@ -65,8 +65,20 @@ The program serves as an educational tool, enhancing learning experiences for ch
 <img width="800" alt="Screenshot 2024-12-03 at 10 10 59 PM" src="https://github.com/user-attachments/assets/5e065c5e-a039-4ffa-8c7d-4a893695b828">
 
 
-
 ## Setup and Usage
 
+### Prerequisites
+
+- Python 3.7 or higher
+- Jupyter Notebook installed
+
+---
+
+### Setup
+
+1. **Clone the repository**  
+   ```bash
+   git clone <repository_url>
+   cd <repository_name>
 
 
