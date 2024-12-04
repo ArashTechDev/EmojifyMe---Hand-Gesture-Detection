@@ -97,8 +97,8 @@ The program serves as an educational tool, enhancing learning experiences for ch
 ### Usage
 
 1. **Run the notebook**
-   Execute all cells in the setup.ipynb file. The application will use your webcam to detect hand gestures.
-2. **Perform gestures**
+   <br/>Execute all cells in the setup.ipynb file. The application will use your webcam to detect hand gestures.
+3. **Perform gestures**
    Place your hand in front of the webcam and try these gestures:
    <ul>
       <li> Thumbs Up: Raise your thumb while keeping other fingers down. </li>
@@ -107,7 +107,7 @@ The program serves as an educational tool, enhancing learning experiences for ch
       <li> High Five: Extend all fingers. </li>
       <li> Fist: Close your hand into a fist. </li>
    </ul>
-3. Quit the application
+4. Quit the application
    <ul>
-      <li> Stop the execution of the notebook cell or interrupt the kernel to exit the application. </li>
+      <li> Stop the execution of the notebook cell by pressing the 'q' key. </li>
    </ul>
